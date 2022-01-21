@@ -1,0 +1,8 @@
+@media (max-width: 750px) {
+    .card{
+        /* background-color: aqua; */
+        display: flex;
+        flex-direction: column !important;
+        width:80% !important;
+    }
+  }
